@@ -21,3 +21,14 @@
 |1. |KEBAB (sos pomidorowy, sos czosnkowy, ser, oregano, kebab)| | 27 zł | 30 zł | 40 zł |
 |2. |GRECKA (sos pomidorowy, ser, pieczarki)| | 22 zł | 25 zł | 30 zł |
 |3. |SALAMI (sos pomidorowy, ser, salami)| | 23 zł | 27 zł | 33 zł |
+
+
+# Makarony
+
+<img src = "katalog/Capricioza.avif" width = 300>
+
+|LP. |Pizza: |rozmiar: | 30 cm | 50 cm | 60 cm |
+|---|---------------------------------------|-----|----|-----|--------|
+|1. |BOLONOSE| | 27 zł | 30 zł | 40 zł |
+|2. |CARBONARA| | 22 zł | 25 zł | 30 zł |
+|3. |LASAGNE| | 23 zł | 27 zł | 33 zł |
