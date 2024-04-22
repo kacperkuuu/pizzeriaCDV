@@ -23,7 +23,7 @@
 |3. |SALAMI (sos pomidorowy, ser, salami)| | 23 zł | 27 zł | 33 zł |
 
 
-# Makarony
+## Makarony
 
 <img src = "katalog/Capricioza.avif" width = 300>
 
