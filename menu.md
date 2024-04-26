@@ -12,6 +12,15 @@
 |4. |VEZUWIO (sos pomidorowy, podwujny ser, szynka)| | 25 zł | 28 zł | 36 zł | 
 |5. |MILANO (sos pomidorowy, ser, papryka, oregano)| | 26 zł | 29 zł | 39 zł |
 
+## Pizze vege
+
+<img src = "katalog/Capricioza.avif" width = 300>
+
+|LP. |Pizza: |rozmiar: | 30 cm | 50 cm | 60 cm |
+|---|---------------------------------------|-----|----|-----|--------|
+|1. |MARGARITA (sos pomidorowy, ser, oregano)| | 20 zł | 25 zł | 30 zł |
+|2. |GRECKA (sos pomidorowy, ser, oregano, bazylia)| | 20 zł | 25 zł | 30 zł |
+
 ## Pizze zwinęte w pieróg
 
 <img src = "katalog/Supreme.jpg" width = 300>
