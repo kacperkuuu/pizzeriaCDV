@@ -1,2 +1,2 @@
 # pizzeriaCDV
-Ten plik nalezy do galezi main
+To jest strona naszej pizzerii.
