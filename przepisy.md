@@ -11,7 +11,7 @@
  - 250 ml ciepłej wody
  - 2 łyżki oliwy z oliwek
 
-### Instrukcje:
+### Instrukcja:
 
 W dużym naczyniu wymieszaj mąkę, sól, cukier i drożdże.
 Stopniowo dodawaj ciepłą wodę, mieszając ciągle, aż składniki się połączą i utworzą ciasto.
