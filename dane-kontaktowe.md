@@ -17,3 +17,7 @@ E-mail:
 
 Strona internetowa:
 ## www.pizzeriacdv.com
+
+Godziny otwarcia:
+## Poniedziałek - Piątek: 11:00 - 22:00
+## Sobota - Niedziela: 12:00 - 23:00
