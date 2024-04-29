@@ -23,7 +23,7 @@
 
 ## Pizze zwinęte w pieróg
 
-<img src = "katalog/Capricioza.avif" width = 300>
+<img src = "katalog/pierog.jpg" width = 300>
 
 |LP. |Pizza: |rozmiar: | 30 cm | 50 cm | 60 cm |
 |---|---------------------------------------|-----|----|-----|--------|
