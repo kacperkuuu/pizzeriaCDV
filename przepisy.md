@@ -1,5 +1,7 @@
 # Przepisy
 
+## --------------------------------------------------------------------------------------------------------
+
 ## Oto nasz przepis na ciasto do pizzy:
 
 ### Składniki:
@@ -20,6 +22,7 @@ Wyrabiaj ciasto przez około 5-7 minut, aż będzie elastyczne i gładkie.
 Przełóż ciasto do miski posmarowanej odrobiną oliwy, przykryj ściereczką i odstaw do wyrośnięcia na około godzinę w ciepłym miejscu, aż podwoi swoją objętość.
 Po wyrośnięciu ciasto gotowe jest do uformowania na pizzę. Możesz je rozwałkować na cienki placek, a następnie dodać ulubione składniki i piec w piekarniku nagrzanym do 220°C przez około 12-15 minut, aż brzegi będą lekko zrumienione.
 
+## --------------------------------------------------------------------------------------------------------
 
 ## Przepis na domowy makaron:
 
@@ -41,6 +44,7 @@ Po odpoczynku ciasto jest gotowe do formowania makaronu. Możesz użyć wałka d
 Gotowy makaron gotuj w osolonej wodzie przez 2-4 minuty, aż będzie al dente.
 Odcedź makaron i podawaj z ulubionym sosem.
 
+## --------------------------------------------------------------------------------------------------------
 
 ## Przepis na nasze lemoniady:
 
@@ -63,6 +67,7 @@ Dodaj kostki lodu.
 Włóż do lodówki na minimum 30 minut przed podaniem.
 Podawaj z plasterkami cytryny i gałązką mięty dla dekoracji.
 
+## --------------------------------------------------------------------------------------------------------
 
 ### Lemoniada malinowa:
 
