@@ -29,6 +29,18 @@ Po wyrośnięciu ciasto gotowe jest do uformowania na pizzę. Możesz je rozwał
 - 3 jajka, najlepiej świeże
 - Szczypta soli
 
+### Instrukcje:
+
+Na dużej stolnicy lub w misce na blacie stołu przesiej mąkę, tworząc na środku wulkan.
+Wbij jajka do środka wulkanu z mąką.
+Delikatnie roztrzep jajka widelcem, stopniowo mieszając z mąką, aby powoli wchłonęła płyn.
+Kiedy mąka i jajka się połączą, zacznij wyrabiać ciasto ręcznie przez około 10-15 minut, aż stanie się gładkie i elastyczne.
+Jeśli ciasto jest zbyt suche, dodaj odrobinę wody; jeśli jest zbyt wilgotne, dodaj odrobinę mąki.
+Gdy ciasto jest gotowe, zawinię je w folię spożywczą i odstaw do odpoczynku na około 30 minut w temperaturze pokojowej.
+Po odpoczynku ciasto jest gotowe do formowania makaronu. Możesz użyć wałka do ciasta lub maszynki do makaronu, aby wyciąć ulubione kształty makaronu.
+Gotowy makaron gotuj w osolonej wodzie przez 2-4 minuty, aż będzie al dente.
+Odcedź makaron i podawaj z ulubionym sosem.
+
 
 ## Przepis na nasze lemoniady:
 
@@ -50,6 +62,7 @@ W dużym dzbanku wymieszaj sok z cytryn, cukrowy syrop i wodę.
 Dodaj kostki lodu.
 Włóż do lodówki na minimum 30 minut przed podaniem.
 Podawaj z plasterkami cytryny i gałązką mięty dla dekoracji.
+
 
 ## Lemoniada malinowa:
 
