@@ -44,7 +44,7 @@ Odcedź makaron i podawaj z ulubionym sosem.
 
 ## Przepis na nasze lemoniady:
 
-## Lemoniada cytrynowa:
+### Lemoniada cytrynowa:
 
 ### Składniki:
 
@@ -64,7 +64,7 @@ Włóż do lodówki na minimum 30 minut przed podaniem.
 Podawaj z plasterkami cytryny i gałązką mięty dla dekoracji.
 
 
-## Lemoniada malinowa:
+### Lemoniada malinowa:
 
 ### Składniki:
 
