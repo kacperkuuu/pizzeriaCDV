@@ -3,7 +3,7 @@
 ## Kierownik
 
 #### Anna Nowak 
-- Doświadczony menedżer z wieloletnim doświadczeniem w zarządzaniu restauracjami
+- Doświadczony menedżer z wieloletnim doświadczeniem w zarządzaniu restauracjami.
 
 ## Dostawca
 
@@ -18,7 +18,7 @@
 ## Kucharz
 
 #### Marek Nowicki 
-- Doświadczony kucharz, który przygotowuje wyborne dania 
+- Doświadczony kucharz, który przygotowuje wyborne dania.
 
 ## Kelnerzy
 
