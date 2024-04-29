@@ -34,7 +34,7 @@
 
 ## Makarony
 
-<img src = "katalog/Capricioza.avif" width = 300>
+<img src = "katalog/fit-spaghetti-z-soczewica.jpg" width = 300>
 
 |LP. |Pizza: |rozmiar: | 30 cm | 50 cm | 60 cm |
 |---|---------------------------------------|-----|----|-----|--------|
