@@ -5,3 +5,7 @@
 ## Dostawca
 
 ## Grafik
+
+## Kucharz
+
+## Kelnerzy
