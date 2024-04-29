@@ -45,6 +45,8 @@
 
 ## Napoje
 
+<img src = "napoje-puste-kalorie.jpg" width = 300>
+
 |LP. |Napoje: |rozmiar: | 330 ml | 500 ml | 1 l |
 |---|---------------------------------------|-----|----|-----|--------|
 |1. |COLA| | 10 zł | 15 zł | 25 zł |
