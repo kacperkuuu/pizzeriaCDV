@@ -1,6 +1,13 @@
 # Kontakt
 
-Nazwa: PIZZERIA CDV
+Nazwa: 
+## PIZZERIA CDV
 
-Adres: ul. Słoneczna 15, 62-035 Kórnik
+Adres: 
+## ul. Słoneczna 15, 62-035 Kórnik
+
+Telefon:
+## +48 123 456 789
+
+
 
