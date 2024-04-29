@@ -44,16 +44,17 @@ Podawaj z plasterkami cytryny i gałązką mięty dla dekoracji.
 
 ## Lemoniada malinowa:
 
-Składniki:
+### Składniki:
 
-1 szklanka malin
-1 szklanka cukru
-1 szklanka wody
-Sok z 2 cytryn
-1,5 litra wody gazowanej lub niegazowanej
-Kostki lodu
-Maliny do dekoracji
-Instrukcje:
+- 1 szklanka malin
+- 1 szklanka cukru
+- 1 szklanka wody
+- Sok z 2 cytryn
+- 1,5 litra wody gazowanej lub niegazowanej
+- Kostki lodu
+- Maliny do dekoracji
+
+### Instrukcje:
 
 W rondelku zagotuj wodę z cukrem, mieszając, aż cukier się rozpuści. Dodaj maliny i gotuj na małym ogniu przez 5 minut.
 Przecedź syrop malinowy przez sitko, aby pozbyć się pestek i miąższu malin. Odstaw do ostygnięcia.
