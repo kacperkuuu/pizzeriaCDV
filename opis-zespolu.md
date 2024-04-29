@@ -1,26 +1,26 @@
 # Zespół
 
-## Kierownik
+### Kierownik
 
-#### Anna Nowak 
+##### Anna Nowak 
 - Doświadczony menedżer z wieloletnim doświadczeniem w zarządzaniu restauracjami.
 
-## Dostawca
+### Dostawca
 
-#### Piotr Kowalski 
+##### Piotr Kowalski 
 - Sprawny i odpowiedzialny dostawca, który dostarcza świeże składniki kulinarne potrzebne do przygotowania dań.
 
-## Grafik
+### Grafik
 
-#### Marta Wiśniewska 
+##### Marta Wiśniewska 
 - Zajmuje się harmonogramem pracy personelu, zapewniając, że restauracja ma odpowiednią liczbę pracowników w danym czasie, aby obsłużyć klientów.
 
-## Kucharz
+### Kucharz
 
-#### Marek Nowicki 
+##### Marek Nowicki 
 - Doświadczony kucharz, który przygotowuje wyborne dania.
 
-## Kelnerzy
+### Kelnerzy
 
-#### Ewa Jankowska, Michał Wójcik, Aleksandra Kaczmarek 
+##### Ewa Jankowska, Michał Wójcik, Aleksandra Kaczmarek 
 - Profesjonalni kelnerzy, którzy dbają o komfort klientów, obsługując ich z uśmiechem i troską, oraz doradzając w wyborze dań i napojów.
