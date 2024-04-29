@@ -23,7 +23,11 @@ Po wyrośnięciu ciasto gotowe jest do uformowania na pizzę. Możesz je rozwał
 
 ## Przepis na domowy makaron:
 
+### Składniki:
 
+- 300g mąki pszennej typu 00 lub do wypieków
+- 3 jajka, najlepiej świeże
+- Szczypta soli
 
 
 ## Przepis na nasze lemoniady:
