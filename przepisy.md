@@ -46,8 +46,6 @@ Odcedź makaron i podawaj z ulubionym sosem.
 
 ## --------------------------------------------------------------------------------------------------------
 
-## Przepis na nasze lemoniady:
-
 ### Lemoniada cytrynowa:
 
 ### Składniki:
