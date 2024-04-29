@@ -4,12 +4,12 @@
 
 ### Składniki:
 
-400 g mąki pszennej
-1 łyżeczka soli
-1 łyżeczka cukru
-1 łyżeczka suchych drożdży
-250 ml ciepłej wody
-2 łyżki oliwy z oliwek
+ - 400 g mąki pszennej
+ - 1 łyżeczka soli
+ - 1 łyżeczka cukru
+ - 1 łyżeczka suchych drożdży
+ - 250 ml ciepłej wody
+ - 2 łyżki oliwy z oliwek
 
 ### Instrukcje:
 
