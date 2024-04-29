@@ -57,6 +57,7 @@
 
 ## Dodatki
 
+<img src = "katalog/sosy-scaled.jpg" width = 300>
 
 |LP. |Napoje: | |
 |---|---------------------------------------|---|
